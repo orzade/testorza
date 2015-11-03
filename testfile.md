@@ -5,7 +5,12 @@ Colons can be used to align columns.
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
+<html>
+<head>
+<script src="jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+<body>
 <div class="tabs">
     <ul class="tab-links">
         <li class="active"><a href="#tab1">Tab #1</a></li>
@@ -36,3 +41,5 @@ Colons can be used to align columns.
         </div>
     </div>
 </div>
+</body>
+</html>
