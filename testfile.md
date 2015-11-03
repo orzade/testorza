@@ -7,7 +7,6 @@ Colons can be used to align columns.
 | zebra stripes | are neat      |    $1 |
 <html>
 <head>
-<script src="jquery.js"></script>
 <link rel="stylesheet" type="text/css" href="main.css"/>
 </head>
 <body>
