@@ -1,3 +1,8 @@
+<head>
+<link rel="stylesheet" type="text/css" href="https://github.com/orzade/testorza/blob/master/style.css">
+<script src="https://github.com/orzade/testorza/blob/master/jquery.js"></script> 
+</head>
+
 An h1 header
 ============
 
@@ -23,11 +28,6 @@ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ?
 
-
-<head>
-<link rel="stylesheet" type="text/css" href="https://github.com/orzade/testorza/blob/master/style.css">
-<script src="jquery.js"></script> 
-</head>
 <div class="tab-content">
     <div id="tab1" class="tab active">
         <p>Tab #1 content goes here!</p>
