@@ -1,7 +1,4 @@
 
-<link rel="stylesheet" type="text/css" href="https://github.com/orzade/testorza/blob/master/style.css">
-<script src="https://github.com/orzade/testorza/blob/master/jquery.js"></script> 
-
 An h1 header
 ============
 
@@ -26,8 +23,22 @@ content starts at 4-columns in.
 Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ?
-
-<div class="tab-content">
+<div class="tabs">
+    <ul class="tab-links">
+        <li class="active"><a href="#tab1">Tab #1</a></li>
+        <li><a href="#tab2">Tab #2</a></li>
+        <li><a href="#tab3">Tab #3</a></li>
+        <li><a href="#tab4">Tab #4</a></li>
+    </ul>
+ 
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+ <head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ <link rel="stylesheet" type="text/css" href="https://github.com/orzade/testorza/blob/master/style.css">
+<script src="https://github.com/orzade/testorza/blob/master/jquery.js"></script> 
+</head>
+<body>
+ <div class="tab-content">
     <div id="tab1" class="tab active">
         <p>Tab #1 content goes here!</p>
         <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa         interdum risus ornare mollis.</p>
@@ -48,3 +59,5 @@ Unicode is supported. ?
         <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
     </div>
 </div>
+</body>
+</html>
