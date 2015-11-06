@@ -1,7 +1,6 @@
-<head>
+
 <link rel="stylesheet" type="text/css" href="https://github.com/orzade/testorza/blob/master/style.css">
 <script src="https://github.com/orzade/testorza/blob/master/jquery.js"></script> 
-</head>
 
 An h1 header
 ============
