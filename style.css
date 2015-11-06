@@ -1,5 +1,4 @@
- <head>
-<style>
+
 /*----- Tabs -----*/
 .tabs {
     width:100%;
@@ -56,6 +55,3 @@
         .tab.active {
             display:block;
         }
-</style>
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
